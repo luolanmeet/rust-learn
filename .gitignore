@@ -2,3 +2,4 @@
 .idea/
 rust-learn.iml
 .DS_Store
+**/target
